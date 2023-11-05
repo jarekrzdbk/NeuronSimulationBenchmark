@@ -8,5 +8,6 @@ dependencies:
   - neuron
   - nest-simulator
   - brian2
+  - matplotlib
   - pip:
     - PyNN
