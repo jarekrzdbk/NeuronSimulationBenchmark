@@ -1,4 +1,6 @@
-# Neuron Simulation Project
+# Neuron Simulation Benchmark
+
+[![DOI](https://zenodo.org/badge/714459091.svg)](https://zenodo.org/badge/latestdoi/714459091)
 
 ## Overview
 This project compares performance of selected neuron simulators. We compare NEURON, Nest, and Brian2, using PyNN for neuron simulation.
